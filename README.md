@@ -18,28 +18,35 @@ Emphasis, aka italics, with asterisks or underscores. Strong emphasis, aka bold,
 3. Actual numbers don't matter, just that it's a number
 >> 1. Ordered sub-list
 >>> 2. 2nd
-4. And another item. ...*note 1 ...*note 2 ***note 3
-
+4. And another item.
+>>> * note 1 
+>>> * note 2 
+>>> * note 3
+***
 - [ ] todo list
 - [x] done
-
+***
 ```python
   x=1
   print (x)
 ```
-
+***
 ```JavaScript
   var s = "javascript print"
   alert(s)
 ```
+***
+Colons can be used to align columns.
+|Tables | Are | Cool |
+|:------|:---:|-----:|
+|col 3 is|right-aligned|$1600|
+|col 2 is|centered|$12|
+|zebra stripes|are neat|$1|
 
-
-|Name |Quantity|price|
-|-----|--------|-----|
-|Apple|3       |100  |
-|Egg  |12      |500  |
-
-|Name |Quantity|price  |
-|-----|--------|-------|
-|**Apple**|3   |**100**|
-|Egg  |12      |500    |
+There must be at least 3 dashs separating each header cell.
+The outer pipes(|) are optional, and you don't need to make the
+raw Markdown line up prettily. You can also use inline Markdown.
+|Markdown | Less | Pretty |
+|:------|:------|:------|
+|*Still*|`renders`|**nicely**|
+|1|2|3|
