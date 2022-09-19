@@ -26,11 +26,13 @@ Emphasis, aka italics, with asterisks or underscores. Strong emphasis, aka bold,
 - [ ] todo list
 - [x] done
 ***
+python code
 ```python
   x=1
   print (x)
 ```
 ***
+javascript code
 ```JavaScript
   var s = "javascript print"
   alert(s)
