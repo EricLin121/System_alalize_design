@@ -1,5 +1,5 @@
 
-Colons can be used to align columns.
+NKUST Project 1005
 |任務 | 說明 | 需時(天) |  前置任務  |
 |:--:|:---:|:-----:|:-----:|
 | 1  | 研習計畫 | 1 | - |
@@ -14,10 +14,7 @@ Colons can be used to align columns.
 | 10 | 使用者訓練 | 20 | 7,8 |
 | 11 | 使用者測試 | 25 | 9,10 |
 
-There must be at least 3 dashs separating each header cell.
-The outer pipes(|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-|Markdown | Less | Pretty |
-|:------|:------|:------|
-|*Still*|`renders`|**nicely**|
-|1|2|3|
+Timing photo & key time：
+![image](https://github.com/EricLin121/System_analize_design/blob/main/%E5%B0%88%E6%A1%88%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
+
+
